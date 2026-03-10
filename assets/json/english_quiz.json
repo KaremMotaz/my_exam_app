@@ -1,0 +1,55 @@
+{
+  "subject": "English",
+  "questions": [
+    {
+      "question": "Which word is a noun?",
+      "options": ["Run", "Happy", "Dog", "Quickly"],
+      "answer": "Dog"
+    },
+    {
+      "question": "What is the plural of 'Child'?",
+      "options": ["Childs", "Children", "Childes", "Childrens"],
+      "answer": "Children"
+    },
+    {
+      "question": "Which word is a verb?",
+      "options": ["Eat", "Blue", "Table", "Soft"],
+      "answer": "Eat"
+    },
+    {
+      "question": "Choose the correct spelling.",
+      "options": ["Beautifull", "Beautiful", "Beautifal", "Beutiful"],
+      "answer": "Beautiful"
+    },
+    {
+      "question": "What is the opposite of 'Hot'?",
+      "options": ["Warm", "Cold", "Heat", "Fire"],
+      "answer": "Cold"
+    },
+    {
+      "question": "Which word is an adjective?",
+      "options": ["Quick", "Run", "Car", "Jump"],
+      "answer": "Quick"
+    },
+    {
+      "question": "What is the past tense of 'Go'?",
+      "options": ["Goed", "Gone", "Went", "Going"],
+      "answer": "Went"
+    },
+    {
+      "question": "Which word means the same as 'Big'?",
+      "options": ["Tiny", "Large", "Small", "Short"],
+      "answer": "Large"
+    },
+    {
+      "question": "What punctuation ends a question?",
+      "options": [".", "!", "?", ","],
+      "answer": "?"
+    },
+    {
+      "question": "Which word is a pronoun?",
+      "options": ["She", "Book", "Run", "Blue"],
+      "answer": "She"
+    }
+  ]
+}

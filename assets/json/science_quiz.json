@@ -1,0 +1,55 @@
+{
+  "subject": "Science",
+  "questions": [
+    {
+      "question": "What planet do we live on?",
+      "options": ["Mars", "Earth", "Venus", "Jupiter"],
+      "answer": "Earth"
+    },
+    {
+      "question": "What gas do humans need to breathe?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What is the center of our solar system?",
+      "options": ["Moon", "Earth", "Sun", "Mars"],
+      "answer": "Sun"
+    },
+    {
+      "question": "What part of the plant makes food?",
+      "options": ["Root", "Leaf", "Stem", "Flower"],
+      "answer": "Leaf"
+    },
+    {
+      "question": "Water freezes at what temperature (°C)?",
+      "options": ["0", "10", "50", "100"],
+      "answer": "0"
+    },
+    {
+      "question": "Which organ pumps blood in the body?",
+      "options": ["Brain", "Heart", "Lungs", "Liver"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What force pulls objects toward Earth?",
+      "options": ["Magnetism", "Gravity", "Energy", "Speed"],
+      "answer": "Gravity"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Saturn", "Venus", "Mercury"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What do bees make?",
+      "options": ["Milk", "Honey", "Water", "Sugar"],
+      "answer": "Honey"
+    },
+    {
+      "question": "What is the boiling point of water (°C)?",
+      "options": ["50", "75", "100", "120"],
+      "answer": "100"
+    }
+  ]
+}
